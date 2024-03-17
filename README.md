@@ -8,6 +8,6 @@ Work Team:  Maria Camila Amaya Rodriguez - mamayaro@unal.edu.co //
             Cristian Camilo Barrera Rodriguez - cbarrerar@unal.edu.co //
             Jhoan Sebastian Franco Ruiz - jhfrancor@unal.edu.co //
             Julian David Huertas Dominguez - jhuertasd@unal.edu.co //
-            Juan Sebastian Muñoz Lemus - jhuertasd@unal.edu.co //
+            Juan Sebastian Muñoz Lemus -  jhuertasd@unal.edu.co //
             Andres Camilo Orduz Lunar - aorduz@unal.edu.co //
             Camilo Andres Roncancio Toca - croncancio@unal.edu.co //
